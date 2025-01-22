@@ -19,5 +19,6 @@ Projeto onde foi possível construir uma RESTful API que permite:
 [![](https://skillicons.dev/icons?i=js,postgres)](https://skillicons.dev)
 [![](https://skillicons.dev/icons?i=nodejs,expressjs)](https://skillicons.dev)
 
-- Biblioteca de cripografia(bcrypt)  
-- Métdodo de autenticação de token: JWT
+# Bibliotecas
+- bcrypt
+- jsonwebtoken 
